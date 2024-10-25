@@ -1,0 +1,1170 @@
+fileFormatVersion: 2
+guid: 3f6e0b0d6dcf46642be324d197e54814
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 7.5
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a6e5430837e94ba5ac49d424c9291
+      internalID: 1933903488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d41550b3f937040a819cb3cfb03f29
+      internalID: -2006409256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b3b1556d2665a4787351f01e743ed6
+      internalID: -36456341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6008f4cef613d3145b6256c315fb59af
+      internalID: -441152535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845ba328d383a7b44b09672d687e8a99
+      internalID: -439933593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_5
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d2cff2bd250184aab123887576fa17
+      internalID: 1800208486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0e5caa0520e6049aad8a8360b467ae
+      internalID: 1968215884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24422dcee7d5df14da8909ef1e759e6a
+      internalID: 230050372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_8
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ab4ad338fbb7948b94e2fa9ca85b68
+      internalID: 1737519400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a668155a29e5645a1552dc24e8b8d5
+      internalID: 1931454009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_10
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c769614768a634ba7df2d2aa31d51c
+      internalID: -727013991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 227
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55f32591eb1bb94b8a08c73fbf187c1
+      internalID: 24759272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243c2ae12652ef34687ba4fe514fe590
+      internalID: 1740395219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_13
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87f2f1d3b08b0f45b89a670fa046245
+      internalID: 1353255537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529cd7c7a7ad5043a90e35300254ca8
+      internalID: 117352347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc3e46dfb0a3c0418f085c07168854e
+      internalID: -1269898474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_16
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac9a706e6c4e42429cfeab20ecf0af0
+      internalID: -396078575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18c74b719ae45545ba86377d0f77a66
+      internalID: -2043268370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_18
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b7035026c3bb448a55f9aea5e2ea3
+      internalID: 106714395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_19
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275cd6dc7ea9f764787948d7bcc1e253
+      internalID: -1532271811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_20
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca62e5fc1b1b95942a42c9e08256bba6
+      internalID: 1117881767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_21
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f01ce32306e8cd4095919e19b857b02
+      internalID: -989108766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cb8aa8688ad874284e4ad223be1ba1
+      internalID: -191193223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_23
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 186
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477b4c8afee1c5c4589ed1bb08c1cf70
+      internalID: -757919102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_24
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 143
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc624ff598c2b08469d7192b77a39b7c
+      internalID: 1343480911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_25
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 98
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3290175d0311b3a4789b1a27113b4d8b
+      internalID: -1684522355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_26
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 98
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde4e0e00e435df4eaf192e6f69a0abd
+      internalID: 363627350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 98
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa004005704f804fa579afb07bf9c46
+      internalID: -582303353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 98
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6336538ac645f7f4fb7c43943fa925fc
+      internalID: 1741108834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_29
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 98
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8d68a01142b72499060487422d0ded
+      internalID: 196046961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_30
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 98
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3056105b1e33fe248ad9069d403b379b
+      internalID: 963041002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 98
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d47d5fef156b4fb6d36ec30d50195
+      internalID: -79221110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_32
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827b2fa927b5fdb4fa5d8cb958df6292
+      internalID: 2133623036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_33
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 98
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba18a282652ea4cbb9e8714e0e9a0e
+      internalID: 1568643445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_34
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 98
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3376f449aac868488a081dafffdb1da
+      internalID: 1000020522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 98
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bcc4f828c260cd499b05c5d882b44cc
+      internalID: -1058617192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88238aaeed87503418f89e36f16b1425
+      internalID: 1301503916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6c320b5457ff34195c1f3cb71a93cc
+      internalID: -1561820051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a58bbc1f70442a4ba65ffcea00f33fb
+      internalID: -1708431139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ed24aa80a02354caebf5a866e5b2cf
+      internalID: -1877906181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e54740d81cbe74e8dcec9132901c5f
+      internalID: 1695282858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a72500c516d54d46972f1535d114aaf
+      internalID: 229327990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_42
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f469262ecb6664e9856f62f10ea4b2
+      internalID: -404282130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_43
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d4d4e0e71ddab49b1f2e3c1f3dde7a
+      internalID: -1764581817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_44
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd390ea7884a834c95a3dc2661ed6a4
+      internalID: -1466493661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_45
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764f583690f837e46ac47338954122ff
+      internalID: -494845211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 57
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ebe074795e3b542ad249a2ee44438e
+      internalID: 1841259795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PiT - Boo Guy (In-battle)_47
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72c1cf3e7ef6ae4a89e3d29ca70b7e4
+      internalID: 34753522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6db37f460b60e4245b9b4b6a481ab539
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PiT - Boo Guy (In-battle)_0: 1933903488
+      PiT - Boo Guy (In-battle)_1: -2006409256
+      PiT - Boo Guy (In-battle)_10: -727013991
+      PiT - Boo Guy (In-battle)_11: 24759272
+      PiT - Boo Guy (In-battle)_12: 1740395219
+      PiT - Boo Guy (In-battle)_13: 1353255537
+      PiT - Boo Guy (In-battle)_14: 117352347
+      PiT - Boo Guy (In-battle)_15: -1269898474
+      PiT - Boo Guy (In-battle)_16: -396078575
+      PiT - Boo Guy (In-battle)_17: -2043268370
+      PiT - Boo Guy (In-battle)_18: 106714395
+      PiT - Boo Guy (In-battle)_19: -1532271811
+      PiT - Boo Guy (In-battle)_2: -36456341
+      PiT - Boo Guy (In-battle)_20: 1117881767
+      PiT - Boo Guy (In-battle)_21: -989108766
+      PiT - Boo Guy (In-battle)_22: -191193223
+      PiT - Boo Guy (In-battle)_23: -757919102
+      PiT - Boo Guy (In-battle)_24: 1343480911
+      PiT - Boo Guy (In-battle)_25: -1684522355
+      PiT - Boo Guy (In-battle)_26: 363627350
+      PiT - Boo Guy (In-battle)_27: -582303353
+      PiT - Boo Guy (In-battle)_28: 1741108834
+      PiT - Boo Guy (In-battle)_29: 196046961
+      PiT - Boo Guy (In-battle)_3: -441152535
+      PiT - Boo Guy (In-battle)_30: 963041002
+      PiT - Boo Guy (In-battle)_31: -79221110
+      PiT - Boo Guy (In-battle)_32: 2133623036
+      PiT - Boo Guy (In-battle)_33: 1568643445
+      PiT - Boo Guy (In-battle)_34: 1000020522
+      PiT - Boo Guy (In-battle)_35: -1058617192
+      PiT - Boo Guy (In-battle)_36: 1301503916
+      PiT - Boo Guy (In-battle)_37: -1561820051
+      PiT - Boo Guy (In-battle)_38: -1708431139
+      PiT - Boo Guy (In-battle)_39: -1877906181
+      PiT - Boo Guy (In-battle)_4: -439933593
+      PiT - Boo Guy (In-battle)_40: 1695282858
+      PiT - Boo Guy (In-battle)_41: 229327990
+      PiT - Boo Guy (In-battle)_42: -404282130
+      PiT - Boo Guy (In-battle)_43: -1764581817
+      PiT - Boo Guy (In-battle)_44: -1466493661
+      PiT - Boo Guy (In-battle)_45: -494845211
+      PiT - Boo Guy (In-battle)_46: 1841259795
+      PiT - Boo Guy (In-battle)_47: 34753522
+      PiT - Boo Guy (In-battle)_5: 1800208486
+      PiT - Boo Guy (In-battle)_6: 1968215884
+      PiT - Boo Guy (In-battle)_7: 230050372
+      PiT - Boo Guy (In-battle)_8: 1737519400
+      PiT - Boo Guy (In-battle)_9: 1931454009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
